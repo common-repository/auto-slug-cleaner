@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Slug cleaner\n"
+"POT-Creation-Date: 2016-05-17 12:00+0430\n"
+"PO-Revision-Date: 2016-05-17 12:01+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: auto-slug-cleaner.php:42
+msgid "Auto Slug Cleaner"
+msgstr "تمیز کننده خودکار نامک"
+
+#: auto-slug-cleaner.php:43
+msgid "Automatic clean post slug with define your words"
+msgstr "تمیزکردن خودکار نامک نوشته ها با کلمات تعریف شده خودتان"
+
+#: includes/settings.php:20 includes/settings.php:21
+msgid "Slug Cleaner"
+msgstr "تمیزکننده نامک"
+
+#: includes/settings.php:98
+#, php-format
+msgid "%s General"
+msgstr "%s عمومی"
+
+#: includes/settings.php:99
+#, php-format
+msgid "%s Content"
+msgstr "%s محتوا"
+
+#: includes/settings.php:161
+msgid "Settings updated"
+msgstr "تنظیمات به روز شد"
+
+#: includes/settings.php:175
+msgid "Enable"
+msgstr "فعال"
+
+#: includes/settings.php:176
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: includes/settings.php:183
+msgid "Status"
+msgstr "وضعیت"
+
+#: includes/settings.php:187
+msgid "Activate slug cleaner when the slug generator is the run."
+msgstr "فعال کردن پاک‌کننده نامک در هنگام اجرای تولید نامک."
+
+#: includes/settings.php:193
+msgid "Words"
+msgstr "کلمات"
+
+#: includes/settings.php:195
+msgid "Enter your additional word in any line for remove in slug."
+msgstr "کلمات اضافی خود را برای حذف در نامک در هر خط واررد نمائید."
+
+#: includes/settings.php:393
+msgid "Upload File"
+msgstr "بارگزاری فایل"
+
+#: includes/settings.php:423
+msgid "Settings"
+msgstr "تنظیمات"
+
+#~ msgid "Clean wordpress slug"
+#~ msgstr "تمیز کننده نامک"
+
+#~ msgid "Plugin status"
+#~ msgstr "وضعیت افزونه"
